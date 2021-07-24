@@ -1,6 +1,6 @@
-# workindia
+# workindia Flutter App
 
-WORK INDIA
+WORK INDIA Flutter App
 
 [app-release.zip](https://github.com/shivam05241/workindia/files/6872372/app-release.zip)
 
